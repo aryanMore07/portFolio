@@ -147,3 +147,27 @@ button {
 .blog {
   text-align: left;
 }
+
+.readmore-btn {
+  padding: 12px 20px 12px 20px;
+  border: 1px solid;
+  border-radius: 15px;
+  margin: 15px 25rem 15px 25rem;
+  font-size: 15px;
+}
+
+.readmore-btn1 {
+  padding: 12px 20px 12px 20px;
+  border: 1px solid;
+  border-radius: 15px;
+  margin: 15px 25rem 15px 23rem;
+  font-size: 15px;
+}
+
+.readmore-btn:hover {
+  background-color: orange;
+}
+
+.readmore-btn1:hover {
+  background-color: orange;
+}
